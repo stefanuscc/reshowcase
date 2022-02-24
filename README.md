@@ -1,6 +1,8 @@
-# Re-Showcase
+# Re-showcase
 
 React Image Gallery using tailwindcss. This project is a mini project playground created by [Stefan](https://www.linkedin.com/in/stefanuscc/), inspired by some plugins and is used to train and test my React skills.
+
+![Reshowcase](https://github.com/stefanuscc/reshowcase/blob/main/preview.jpg?raw=true)
 
 Inspirations:
 - [Tailwind CSS](https://tailwindcss.com/)
