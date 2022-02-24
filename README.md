@@ -1,6 +1,10 @@
 # Re-Showcase
 
-React Image Gallery using tailwindcss. This project is a mini project playground created by [Stefan](https://www.linkedin.com/in/stefanuscc/) inspired by tailwind and is used as training and testing my React skills.  
+React Image Gallery using tailwindcss. This project is a mini project playground created by [Stefan](https://www.linkedin.com/in/stefanuscc/), inspired by some plugins and is used to train and test my React skills.
+
+Inspirations:
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Picsum Photos](https://picsum.photos/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
